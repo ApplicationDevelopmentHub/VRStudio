@@ -1,2 +1,3 @@
 # VRStudio
-Virtual Reality project developed in Unity (multiple use-cases)
+## Virtual Reality project developed in Unity
+## Use-cases: Medical simulation, Javelin Throw, Warehouse, Tourism, Social Networking
