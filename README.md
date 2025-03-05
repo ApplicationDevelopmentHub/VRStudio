@@ -4,4 +4,6 @@
 #### - Use-cases: Medical simulation, Javelin Throw, Warehouse, Tourism, Social Networking
 
 ### Unity Packages Used
-#### - Yes
+#### - XR Interaction Toolkit
+#### - XR Plugin Management
+#### - Oculus XR Plugin
